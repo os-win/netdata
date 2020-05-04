@@ -1,6 +1,6 @@
 <!--
 ---
-title: "Web dashboards overview"
+title:"网页概括仪表板"
 date: 2020-03-11
 custom_edit_url: https://github.com/netdata/netdata/edit/master/web/README.md
 ---
